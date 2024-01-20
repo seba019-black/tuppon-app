@@ -1,0 +1,35 @@
+.navbar-brand span{
+    font-size: 2rem;
+    font-weight: 500;
+}
+.descuento{
+    border-top: 1px solid #777;
+    height: 3rem;
+    text-align: right;
+}
+.descuento p{
+    padding-top: 0.5rem;
+    padding-right: 2rem;
+
+}
+.descuento span{
+    font-size: 1.8rem;
+    color: #28a745;
+    font-weight: 600;
+
+}
+.container{
+    background-color: #28a745;
+    text-align: center;
+    align-items: center;
+}
+.container h5{
+    color: white;
+    font-weight: 500;
+}
+footer{
+    text-align: center;
+}
+footer h3{
+    padding: 2rem;
+}
